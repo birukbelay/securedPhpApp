@@ -1,0 +1,20 @@
+.equipimg{
+	height: 100%;
+}
+.equip{
+	height: 30em;
+}
+/* .equipim{
+
+} */
+.p1d{
+	/* height: 10em!important; */
+	overflow: scroll; 
+}
+.ptd{
+	height: 4em!important;
+	overflow: hidden!important;
+}
+.div1{
+	height: 30em;
+}
